@@ -1,67 +1,136 @@
-{
-  "year": 2024,
-  "tires": [
-    {
-      "district": "Sachsenhausen",
-      "location": "Stadthalle",
-      "start": "20240608 11:15",
-      "end": "20240608 11:45"
-    },
-    {
-      "district": "Sachsenhausen",
-      "location": "Stadthalle",
-      "start": "20240831 11:15",
-      "end": "20240831 11:45"
-    }
-  ],
-  "hazardous": [
-    {
-      "district": "Waldeck",
-      "location": "Sportplatz",
-      "start": "20240311 14:15",
-      "end": "20240311 15:15"
-    },
-    {
-      "district": "Sachsenhausen",
-      "location": "Stadthalle",
-      "start": "20240311 15:30",
-      "end": "20240311 16:15"
-    },
-    {
-      "district": "Höringhausen",
-      "location": "Bürgerhaus",
-      "start": "20240315 14:45",
-      "end": "20240315 15:15"
-    },
-    {
-      "district": "Freienhagen",
-      "location": "Stadhalle",
-      "start": "20240315 15:30",
-      "end": "20240315 16:00"
-    },
-    {
-      "district": "Nieder-Werbe",
-      "location": "Parkplatz Uferstraße",
-      "start": "20240327 13:00",
-      "end": "20240327 13:30"
-    },
-    {
-      "district": "Waldeck",
-      "location": "Sportplatz",
-      "start": "20240912 14:15",
-      "end": "20240912 15:15"
-    },
-    {
-      "district": "Höringhausen",
-      "location": "Bürgerhaus",
-      "start": "20240920 14:45",
-      "end": "20240920 15:15"
-    },
-    {
-      "district": "Freienhagen",
-      "location": "Feuerwehrgerätehaus",
-      "start": "20240920 15:30",
-      "end": "20240920 16:00"
-    }
-  ]
-}
+[
+  {
+    "year": 2024,
+    "tires": [
+      {
+        "district": "Sachsenhausen",
+        "location": "Stadthalle",
+        "start": "20240608 11:15",
+        "end": "20240608 11:45"
+      },
+      {
+        "district": "Sachsenhausen",
+        "location": "Stadthalle",
+        "start": "20240831 11:15",
+        "end": "20240831 11:45"
+      }
+    ],
+    "hazardous": [
+      {
+        "district": "Waldeck",
+        "location": "Sportplatz",
+        "start": "20240311 14:15",
+        "end": "20240311 15:15"
+      },
+      {
+        "district": "Sachsenhausen",
+        "location": "Stadthalle",
+        "start": "20240311 15:30",
+        "end": "20240311 16:15"
+      },
+      {
+        "district": "Höringhausen",
+        "location": "Bürgerhaus",
+        "start": "20240315 14:45",
+        "end": "20240315 15:15"
+      },
+      {
+        "district": "Freienhagen",
+        "location": "Stadhalle",
+        "start": "20240315 15:30",
+        "end": "20240315 16:00"
+      },
+      {
+        "district": "Nieder-Werbe",
+        "location": "Parkplatz Uferstraße",
+        "start": "20240327 13:00",
+        "end": "20240327 13:30"
+      },
+      {
+        "district": "Waldeck",
+        "location": "Sportplatz",
+        "start": "20240912 14:15",
+        "end": "20240912 15:15"
+      },
+      {
+        "district": "Höringhausen",
+        "location": "Bürgerhaus",
+        "start": "20240920 14:45",
+        "end": "20240920 15:15"
+      },
+      {
+        "district": "Freienhagen",
+        "location": "Feuerwehrgerätehaus",
+        "start": "20240920 15:30",
+        "end": "20240920 16:00"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "tires": [
+      {
+        "district": "Sachsenhausen",
+        "location": "Stadthalle",
+        "start": "20250614 11:15",
+        "end": "20250614 11:45"
+      },
+      {
+        "district": "Sachsenhausen",
+        "location": "Stadthalle",
+        "start": "20250830 11:15",
+        "end": "20250830 11:45"
+      }
+    ],
+    "hazardous": [
+      {
+        "district": "Waldeck",
+        "location": "Sportplatz",
+        "start": "20250410 14:15",
+        "end": "20250410 15:15"
+      },
+      {
+        "district": "Sachsenhausen",
+        "location": "Stadthalle",
+        "start": "20250410 15:30",
+        "end": "20250410 16:15"
+      },
+      {
+        "district": "Höringhausen",
+        "location": "Bürgerhaus",
+        "start": "20250416 14:45",
+        "end": "20250416 15:15"
+      },
+      {
+        "district": "Freienhagen",
+        "location": "Stadhalle",
+        "start": "20250416 15:30",
+        "end": "20250416 16:00"
+      },
+      {
+        "district": "Nieder-Werbe",
+        "location": "Parkplatz Uferstraße",
+        "start": "20250430 13:00",
+        "end": "20250430 13:30"
+      },
+      {
+        "district": "Waldeck",
+        "location": "Sportplatz",
+        "start": "20251009 14:15",
+        "end": "20251009 15:15"
+      },
+      {
+        "district": "Höringhausen",
+        "location": "Bürgerhaus",
+        "start": "20251017 14:45",
+        "end": "20251017 15:15"
+      },
+      {
+        "district": "Freienhagen",
+        "location": "Feuerwehrgerätehaus",
+        "start": "20251017 15:30",
+        "end": "20251017 16:00"
+      }
+    ]
+  }
+]
