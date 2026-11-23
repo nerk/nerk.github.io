@@ -1,0 +1,22 @@
+[Adblock Plus]
+! Title: Thomas YT List
+! Expires: 1 hours
+! Version: 2026.1123.0845.55
+!
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)  
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)  
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])  
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+! 2023-10-13 https://www.youtube.com  
+www.youtube.com##.opened  
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+
+||accounts.google.com/gsi/*$xhr,script,3p
+
+##.ytp-endscreen-content  
+youtube.com##.ytp-scroll-min.ytp-pause-overlay  
+youtube.com##.ytp-ce-covering-shadow-top  
+youtube.com##.ytp-pause-overlay  
+youtube.com##.ytp-ce-covering-overlay  
+youtube.com##.ytp-ce-element
